@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
-<img width="1067" height="769" alt="image" src="https://github.com/user-attachments/assets/ba7d2c40-3af5-417f-97a6-c3f9050dc8bf" />
+<img width="1216" height="876" alt="Edm 5 1" src="https://github.com/user-attachments/assets/e8a402be-1837-4566-b6f6-a1002824a1f0" />
 
 
 
